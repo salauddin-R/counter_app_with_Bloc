@@ -38,7 +38,7 @@ Counter er value state er maddhome update hoy.
 ## 🚀 How to Run
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/salauddin-R/counter_app_with_Bloc.git
 cd <project-folder>
 flutter pub get
 flutter run
